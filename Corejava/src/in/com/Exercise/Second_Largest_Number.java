@@ -3,7 +3,7 @@ package in.com.Exercise;
 public class Second_Largest_Number {
 
 	public static void main(String[] args) {
-		int[] arr= {1,2,3,4,5,6};
+		int[] arr= {1,2,3,4,5,6,80,90,100,43 };
 		
 		int a=0;
 		int b=0;
@@ -19,7 +19,8 @@ public class Second_Largest_Number {
 				
 			}
 			
-			if (arr[i]<b && arr[i]<a) {
+			
+			if (arr[i]<b && a> arr[i]) {
 				
 				a=arr[i];
 				

@@ -3,7 +3,7 @@ package in.com.Exercise;
 public class Pallindrone_Number {
 
 	public static void main(String[] args) {
-		int num=786;
+		int num=371;
 		int sum=0;
 		int rem;
 		int temp=num;

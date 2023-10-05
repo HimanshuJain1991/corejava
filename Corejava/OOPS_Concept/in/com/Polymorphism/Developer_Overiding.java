@@ -3,6 +3,7 @@ package in.com.Polymorphism;
 public class Developer_Overiding   extends Employee_Overiding{
    private String d_name;
    private int d_salary;
+   
    public void setD_name(String d_name) {
 	this.d_name = d_name;
 }
@@ -18,7 +19,7 @@ public class Developer_Overiding   extends Employee_Overiding{
    public void showDetails() {
 	   
 	   System.out.println("Developer method is calling");
-	   System.out.println("developer name"+getD_name());
-	   System.out.println("developer salary"+getD_salary());
+	   System.out.println("developer name"+ getD_name());
+	   System.out.println("developer salary"+ getD_salary());
    }
 }

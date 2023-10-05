@@ -8,7 +8,7 @@ public class Employee_Overiding  {
 	}
 	public int getE_id() {
 		return e_id;
-	}
+	} 
 	public void setE_name(String e_name) {
 		this.e_name = e_name;
 	}
@@ -20,5 +20,8 @@ public class Employee_Overiding  {
     	System.out.println("Employee Details call");
     	System.out.println("Employee id"+getE_id());
     	System.out.println("Employee name "+getE_name());
+    	
+    	
+    	
     }
 }

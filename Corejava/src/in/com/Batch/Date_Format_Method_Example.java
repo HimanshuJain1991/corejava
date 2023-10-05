@@ -1,6 +1,7 @@
 package in.com.Batch;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
 public class Date_Format_Method_Example {
 
 	public static void main(String[] args) {
@@ -10,10 +11,15 @@ public class Date_Format_Method_Example {
        String str=sdf.format(date);
        System.out.println(str);
        
-       
+      
        
 		
 
 	}
+
+	 static{
+		 System.out.println("Static");
+	 }
+
 
 }
