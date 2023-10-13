@@ -1,12 +1,14 @@
 package in.com.CollectionFramework;
 
-import java.util.Collections;
 import java.util.LinkedList;
+import java.util.List;
 
 public class List_Interface  {
 
 	public static void main(String[] args) {
 	  LinkedList l=new LinkedList();
+	  //List<String> s=new LinkedList<String>();
+	  
 	  l.add("Himanshu Jain");
 	  l.add(101);
 	  l.add("Hariom");
