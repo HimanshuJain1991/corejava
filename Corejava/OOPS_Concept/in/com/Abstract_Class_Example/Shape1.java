@@ -1,4 +1,4 @@
-package in.com.Abstract_Class_Example;
+package in.com.abstract_class_example;
 
 public  abstract class Shape1 {
 	public void color() {

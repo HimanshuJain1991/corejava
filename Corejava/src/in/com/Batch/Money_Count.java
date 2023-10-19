@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 public class Money_Count {
 

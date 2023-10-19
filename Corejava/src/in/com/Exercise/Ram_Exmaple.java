@@ -1,4 +1,4 @@
-package in.com.Exercise;
+package in.com.exercise;
 
 public class Ram_Exmaple {
 // 4 , 7, 10, 13,16...

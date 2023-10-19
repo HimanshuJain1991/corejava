@@ -1,4 +1,4 @@
-package in.com.Cloning;
+package in.com.cloning;
 
 public class Test4 {
 	public static void main(String[] args) throws CloneNotSupportedException {

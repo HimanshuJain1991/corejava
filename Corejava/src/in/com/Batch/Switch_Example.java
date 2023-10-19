@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 public class Switch_Example {
 	public static void main(String[] args) {

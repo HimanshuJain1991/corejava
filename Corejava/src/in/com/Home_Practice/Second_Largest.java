@@ -1,4 +1,4 @@
-package in.com.Home_Practice;
+package in.com.home_practice;
 
 public class Second_Largest {
 

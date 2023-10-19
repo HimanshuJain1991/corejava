@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 public class While_Loop3 {
 

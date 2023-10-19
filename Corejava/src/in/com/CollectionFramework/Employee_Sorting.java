@@ -1,4 +1,4 @@
-package in.com.CollectionFramework;
+package in.com.collectionframework;
 
 public class Employee_Sorting implements Comparable<Employee_Sorting> {
        private int e_id;

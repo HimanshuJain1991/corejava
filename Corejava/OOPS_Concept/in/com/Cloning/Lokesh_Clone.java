@@ -1,4 +1,4 @@
-package in.com.Cloning;
+package in.com.cloning;
 
 public class Lokesh_Clone implements Cloneable {
 	String name;

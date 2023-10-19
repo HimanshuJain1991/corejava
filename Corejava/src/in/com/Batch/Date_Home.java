@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

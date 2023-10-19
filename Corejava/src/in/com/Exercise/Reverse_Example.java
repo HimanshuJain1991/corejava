@@ -1,4 +1,4 @@
-package in.com.Exercise;
+package in.com.exercise;
 
 public class Reverse_Example {
 

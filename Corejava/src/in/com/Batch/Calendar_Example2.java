@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 import java.util.Calendar;
 import java.util.Date;

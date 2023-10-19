@@ -1,4 +1,4 @@
-package in.com.Cloning;
+package in.com.cloning;
 
 public class Customer2 implements Cloneable {
 	int c_id;

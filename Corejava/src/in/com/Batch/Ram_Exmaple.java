@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 public class Ram_Exmaple {
 // 4 , 7, 10, 13,16...

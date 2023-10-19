@@ -1,4 +1,4 @@
-package in.com.CollectionFramework;
+package in.com.collectionframework;
 
 public class Employee_Same_Object {
 	private int id=0;

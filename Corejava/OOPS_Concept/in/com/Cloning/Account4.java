@@ -1,4 +1,4 @@
-package in.com.Cloning;
+package in.com.cloning;
 
 public class Account4 implements Cloneable {
 int balance;

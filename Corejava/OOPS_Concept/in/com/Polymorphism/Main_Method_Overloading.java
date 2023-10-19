@@ -1,4 +1,4 @@
-package in.com.Polymorphism;
+package in.com.polymorphism;
 
  class Main_Method_Overloading {
    public static void main(String[] args) {

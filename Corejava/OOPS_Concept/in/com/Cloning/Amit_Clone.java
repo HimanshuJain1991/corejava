@@ -1,4 +1,4 @@
-package in.com.Cloning;
+package in.com.cloning;
 
 public class Amit_Clone implements Cloneable{
 	int balance;

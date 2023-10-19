@@ -1,4 +1,4 @@
-package in.com.CollectionFramework;
+package in.com.collectionframework;
 
 import java.util.Enumeration;
 import java.util.Vector;

@@ -1,4 +1,4 @@
-package in.com.Get_Set_Methods;
+package in.com.get_set_methods;
 
 public class Shape {
 	private int border_Widht=0;

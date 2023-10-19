@@ -1,4 +1,4 @@
-package in.com.CollectionFramework;
+package in.com.collectionframework;
 
 public class Employee {
 private int id=0;

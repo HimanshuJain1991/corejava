@@ -1,4 +1,4 @@
-package in.com.CollectionFramework;
+package in.com.collectionframework;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

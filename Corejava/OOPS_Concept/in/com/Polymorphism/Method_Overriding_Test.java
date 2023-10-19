@@ -1,4 +1,4 @@
-package in.com.Polymorphism;
+package in.com.polymorphism;
 
 public class Method_Overriding_Test {
 

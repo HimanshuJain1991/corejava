@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -11,7 +11,9 @@ public class Calendar_Example {
 		
 		System.out.println(cal.getTime());
 		
-		
+		Calendar e=Calendar.getInstance();
+		e.add(Calendar.DATE,7);
+		System.out.println(e.getTime());
 
 	}
 

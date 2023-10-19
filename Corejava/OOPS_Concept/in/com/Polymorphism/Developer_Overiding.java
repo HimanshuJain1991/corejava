@@ -1,4 +1,4 @@
-package in.com.Polymorphism;
+package in.com.polymorphism;
 
 public class Developer_Overiding   extends Employee_Overiding{
    private String d_name;

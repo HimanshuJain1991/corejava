@@ -1,4 +1,4 @@
-package in.com.Exception;
+package in.com.exception;
 
 public class TestProgation {
 

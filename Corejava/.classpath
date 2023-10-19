@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="OOPS_Concept"/>
+	<classpathentry kind="src" path="oops_concept"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

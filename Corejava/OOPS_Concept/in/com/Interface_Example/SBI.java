@@ -1,4 +1,4 @@
-package in.com.Interface_Example;
+package in.com.interface_example;
 
 public class SBI implements Bank {
 double saving_intrest,Fd_intrest;

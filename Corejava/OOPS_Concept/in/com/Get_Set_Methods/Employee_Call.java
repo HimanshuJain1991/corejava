@@ -1,4 +1,4 @@
-package in.com.Get_Set_Methods;
+package in.com.get_set_methods;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package in.com.Polymorphism;
+package in.com.polymorphism;
 
 public class Polymorphism_MethodOverloading {
 	public void read() {

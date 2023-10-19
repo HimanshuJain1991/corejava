@@ -1,4 +1,4 @@
-package in.com.Home_Practice;
+package in.com.home_practice;
 
 public class Pallindrone_Number {
 

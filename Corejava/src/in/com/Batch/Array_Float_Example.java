@@ -1,4 +1,4 @@
-package in.com.Batch;
+package in.com.batch;
 
 public class Array_Float_Example {
 
