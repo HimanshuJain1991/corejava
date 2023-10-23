@@ -13,15 +13,15 @@ public class ConsoleToFileData {
 		System.out.println("Type here data");
 		InputStreamReader isReader=new InputStreamReader(System.in);
 		BufferedReader buffer= new BufferedReader(isReader);
-		FileWriter write=new FileWriter("C:\\Users\\ADMIN\\Desktop\\File\\Keybord.txt");
-         PrintWriter pw=new PrintWriter(write);
+		//FileWriter write=new FileWriter();
+         PrintWriter pw=new PrintWriter("C:\\Users\\ADMIN\\Desktop\\File\\Keybord.txt");
          String line=buffer.readLine();
          while(!(line.equals("Tata"))){
         	 pw.println(line);
         	 line=buffer.readLine();
          }
          System.out.println("Completed");
-         isReader.close();buffer.close();write.close();pw.close();
+         isReader.close();buffer.close();pw.close();//write.close();
 	}
 
 }
