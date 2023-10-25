@@ -6,14 +6,14 @@ public class Reverse_Example {
 		 int number=1234;
 		  int rem;
 		  int sum=0;
-		  int temp=number;
+		 // int temp=number;
 		  while(number>0) {
 			  rem=number%10;
 			  sum=sum*10+(rem);
 			  number=number/10;
 		  }
 		  System.out.println(sum);
-
+ 
 	}
 
 }

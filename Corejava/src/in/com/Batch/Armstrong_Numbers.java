@@ -6,12 +6,12 @@ public class Armstrong_Numbers {
 	  int a=371;
 	  int b=0;
 	  int c;
-	  int d=a;
+	  int temp=a;
 	  
-	  while(d>0 ) {
-		  c=d%10;
+	  while(temp>0 ) {
+		  c=temp%10;
 		  b=b+(c*c*c);
-		  d=d/10;
+		  temp=temp/10;
 	  }
 	  if (b==a) {
 		  System.out.println("yes armstrong number");
