@@ -7,6 +7,8 @@ public class Customer_Test {
 
 	public static void main(String[] args) {
 		ArrayList<Customer> list=new ArrayList<Customer>();
+//		Customer c=new Customer(45, "Amit", "12/4/1992");
+//		list.add(c);
 		list.add(new Customer(548, "Himanshu Jain", "19/01/1992"));
 		list.add(new Customer(698, "Ram Sharma","15/05/1993"));
 		list.add(new Customer(265, "Lokesh", "02/01/1998"));
