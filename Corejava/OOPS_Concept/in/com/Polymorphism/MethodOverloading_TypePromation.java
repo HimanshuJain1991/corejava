@@ -20,7 +20,7 @@ public class MethodOverloading_TypePromation {
          //mtp.sum(45, 78);
         // mtp.sum(45, 78);
 		MethodOverloading_TypePromation.sum(45, 4);
-		MethodOverloading_TypePromation.sum(12, 36);
+		MethodOverloading_TypePromation.sum(1255555555, 36);
 	}
 
 }
