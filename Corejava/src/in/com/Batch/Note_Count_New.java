@@ -17,6 +17,7 @@ public class Note_Count_New {
         		System.out.println(note[i]+"= "+count);
         	}
 			money=money%note[i];
+			sc.close();
 		}
          
 

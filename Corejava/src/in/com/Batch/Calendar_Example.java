@@ -10,11 +10,15 @@ public class Calendar_Example {
 		cal.add(Calendar.DATE, 5);
 		
 		System.out.println(cal.getTime());
-		
+		 
 		Calendar e=Calendar.getInstance();
 		e.add(Calendar.DATE,7);
 		System.out.println(e.getTime());
-
+		
+     long timeInMillSec=System.currentTimeMillis();		
+	  Date d1=new Date(timeInMillSec);
+     System.out.println("time in mills ="+d1);
 	}
 
 }
+ 
