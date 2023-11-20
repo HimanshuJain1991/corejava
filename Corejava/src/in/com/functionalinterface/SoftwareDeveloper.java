@@ -4,7 +4,7 @@ public class SoftwareDeveloper implements Employee {
 	//Delete bhi kar sakte hai es class ko .main method se he kaam ho jayega
 
 	@Override
-	public String getName1() {
+	public String getName1(int a,int b) {
 	
 		return "Software Engineer";
 	}
