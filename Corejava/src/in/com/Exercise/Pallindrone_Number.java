@@ -3,7 +3,7 @@ package in.com.exercise;
 public class Pallindrone_Number {
 
 	public static void main(String[] args) {
-		int num=121;
+		int num=122;
 		int sum=0;
 		int rem;
 		int temp=num;
@@ -16,7 +16,7 @@ public class Pallindrone_Number {
 			System.out.println("Pallindrone");
 		}
 		else {
-			System.out.println("Not pallindronr");
+			System.out.println("Not pallindrone");
 		} 
 
 	}
